@@ -1,0 +1,20 @@
+{
+  "name": "restaurantMenu",
+  "version": "1.0.0",
+  "description": "Simple Node Application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hitesh",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^0.9.0",
+    "body-parser": "^1.12.2",
+    "express": "^4.12.3",
+    "express-validator": "^2.9.0",
+    "hat": "0.0.3",
+    "multer": "^0.1.8",
+    "underscore": "^1.8.3"
+  }
+}
